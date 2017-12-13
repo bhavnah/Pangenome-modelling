@@ -57,5 +57,5 @@ etc...
 
 7. Model in R
 ```
-Rscript 6.model_all.R
+Rscript model_all.R
 ```
