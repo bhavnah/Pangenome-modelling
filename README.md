@@ -2,7 +2,7 @@
 Steps to model pangenome expansion and core genome reduction.
 
 # Prerequisites
-1. Gene presence/absence variation (PAV) table: This can be obtained by running SGSGeneLoss () and should be formatted to look like this:
+1. Gene presence/absence variation (PAV) table: This can be obtained by running SGSGeneLoss (http://www.appliedbioinformatics.com.au/index.php/SGSGeneLoss) and should be formatted to look like this:
 ```
 1,1,1,0,1,0,0,1,0,1,0,1,0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,1,0,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1
 0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0
