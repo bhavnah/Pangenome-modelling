@@ -1,5 +1,6 @@
 # Pangenome-modelling
-Steps to model pangenome expansion and core genome reduction.
+Steps to model pangenome expansion and core genome reduction. These are based on what has been done in the following paper:
+Hurgobin, B., Golicz, A.A., Bayer, P.E., Chan, C.-K.K., Tirnaz, S., Dolatabadian, A., Schiessl, S.V., Samans, B., Montenegro, J.D., Parkin, I.A.P., Pires, J.C., Chalhoub, B., King, G.J., Snowdon, R., Batley, J. and Edwards, D. (2017) Homoeologous exchange is a major cause of gene presence/absence variation in the amphidiploid Brassica napus. Plant Biotechnol. J., https://doi.org/10.1111/pbi.12867
 
 # Prerequisites
 1. Gene presence/absence variation (PAV) table: This can be obtained by running SGSGeneLoss (http://www.appliedbioinformatics.com.au/index.php/SGSGeneLoss) and should be formatted to look like this:
